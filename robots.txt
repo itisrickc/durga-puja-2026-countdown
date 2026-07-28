@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+Sitemap: https://itisrickc.github.io/durga-puja-2026-countdown/sitemap.xml
